@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ប្រព័ន្ធគ្រប់គ្រងការងារ មន្ទីរក.ប ខេត្តកំពត</title>
+  <style>
+    body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; }
+    iframe { width: 100%; height: 100%; border: none; }
+  </style>
+</head>
+<body>
+  <!-- ដាក់ allow="camera; microphone; geolocation" ដើម្បីដោះសោរ Iframe Sandbox -->
+  <iframe 
+    src="https://script.google.com/macros/s/AKfycbx4pfjuhMfwyFnJphROzRN71fLSzNHAbyFkD7KZYEtNTubC9tzU22eOY6ZOd3rAcVAh/exec" 
+    allow="camera; microphone; geolocation" 
+    allowfullscreen>
+  </iframe>
+</body>
+</html>
